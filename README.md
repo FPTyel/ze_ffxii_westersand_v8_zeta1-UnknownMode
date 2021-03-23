@@ -1,4 +1,4 @@
-# ze_ffxii_westersand_v8_zeta1-UnknownMode
+# [CS:S] ze_ffxii_westersand_v8_zeta1-UnknownMode
 Simply making ze_ffxii_westersand_v8_zeta1 harder
 
 Put "ze_ffxii_westersand_v8zeta1.cfg" at "<your_server_folder>\csgo\addons\stripper\maps"

@@ -9,6 +9,6 @@ If you wish to play without Insane mode - it's on your own ;)
 
 Features of UNKNOWN MODE:
 
-+50% dmg from everything
-+20% laser speed
-Changed color of lasers
++50% dmg from everything;
++20% laser speed;
+Changed color of lasers.

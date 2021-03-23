@@ -1,0 +1,2 @@
+# ze_ffxii_westersand_v8_zeta1-UnknownMode
+Simply making ze_ffxii_westersand_v8_zeta1 harder
